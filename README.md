@@ -1,8 +1,5 @@
 ![Edició del projecte](microbit-1.PNG)
 
-![Edició del projecte](microbit-2.PNG)
-
-
 > Obre aquesta pàgina a [https://dmarin-itb.github.io/cursgithub-activitat1/](https://dmarin-itb.github.io/cursgithub-activitat1/)
 
 ## Utilitza-ho com a extensió
